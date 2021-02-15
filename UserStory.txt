@@ -1,0 +1,21 @@
+1. As a player, I want the game that requires me to remember the cards' positions so that I can test my memory skill.
+
+2. As a player, I want the game that can be played with two or more people so that I can have fun with my friends.
+
+3. As a player, I want to adjust the the number of pairs in a game so that I can make the game more or less difficult.
+
+4. As a player, I want to the game that have multiple designs for the deck of cards so that I don't have to play with the same deck every game. 
+
+5. As a player, I want the game to have a scoreboard so that I can track the score when playing with my friends.
+
+6. As a player, I want the game to have a timer so that I know how long it takes for me to finish a game.
+
+7. As a player, I want the game to have a count down clock so that I can set a limit in how long I have to finish a game.
+
+8. As a player, I want the game to track how many wrong pairs I choose in a game, so that I can improve my play.
+
+9. As a player, when I choose a matching pair, I want the game to remove the pair so that I can keep track of what are left. 
+
+10. As a player, when I choose an non-matching pair, I want the game put the card back upside down so that I can make my next choice.
+
+
